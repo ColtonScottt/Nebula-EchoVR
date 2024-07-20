@@ -4,7 +4,7 @@
 
 - Features:
   - Text-to-Speech throwing readout
-  - Joining Privates through links
+  - Joining Privates through links (nebula://{c or j}/{sessionID}
   - SessionID and Username display
   - Connection to EchoVR's API
  
