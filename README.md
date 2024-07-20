@@ -1,0 +1,1 @@
+Nebula is a simple tool that allows for throwing speed readouts and connection status to the Echo VR API. This project plans to get updates, but support may be limited due to time, personal life, etc. I appreciate you taking the time to check out this project, and if any bugs are present, please message @ce1este on Discord.
