@@ -4,6 +4,7 @@
 
 - Features:
   - Text-to-Speech throwing readout
+  - Joining Privates through links
   - SessionID and Username display
   - Connection to EchoVR's API
  
@@ -11,7 +12,6 @@
   - Optional readouts of other events
   - Player stats menu
   - Rule changing in privates
-  - Joining Privates through links
   - Discord Intergration (?)
 
   
